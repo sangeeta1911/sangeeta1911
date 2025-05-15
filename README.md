@@ -2,8 +2,6 @@
 
 I am passionate about a web development career after 6 years in customer success and support. I’m currently diving deep into HTML, CSS, and JavaScript — and loving every bit of it!
 
-**sangeeta1911/sangeeta1911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on learning frontend development.
