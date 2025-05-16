@@ -2,8 +2,6 @@
 
 I am passionate about a web development career after 6 years in customer success and support. I’m currently diving deep into HTML, CSS, and JavaScript — and loving every bit of it!
 
-<!--
-**sangeeta1911/sangeeta1911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mishrasangeeta898@outlook.com or [LinkedIn](https://www.linkedin.com/in/sangeeta-mishra/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I’ve been solving customer challenges — and now, I’d love to solve them with code!
--->
+
