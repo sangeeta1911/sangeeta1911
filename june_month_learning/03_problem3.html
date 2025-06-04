@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Daily Mood Tracker</title>
+</head>
+<body>
+  <h1>😊 How Are You Feeling Today?</h1>
+
+  <form>
+    <fieldset>
+      <legend>Select Your Mood:</legend>
+
+      <label>
+        <input type="radio" name="mood" value="happy"> 😀 Happy
+      </label><br>
+
+      <label>
+        <input type="radio" name="mood" value="sad"> 😔 Sad
+      </label><br>
+
+      <label>
+        <input type="radio" name="mood" value="excited"> 🤩 Excited
+      </label><br>
+
+      <label>
+        <input type="radio" name="mood" value="angry"> 😠 Angry
+      </label><br>
+
+      <label>
+        <input type="radio" name="mood" value="calm"> 😌 Calm
+      </label><br>
+    </fieldset>
+
+    <br>
+    <label for="note">Write a note (optional):</label><br>
+    <textarea id="note" name="note" rows="4" cols="30" placeholder="Type here..."></textarea>
+
+    <br><br>
+    <input type="submit" value="Save Mood">
+  </form>
+</body>
+</html>
