@@ -1,0 +1,44 @@
+/* General Styles */
+body {
+    /* font-family: Arial, sans-serif; */
+    background-color: green;  /* Light grey background */
+    /* margin: 0;
+    padding: 0;
+    color: #333;  Dark grey text color */
+}
+
+/* Heading Styles */
+h1 {
+   color: white;  /* White text color */
+}
+
+.container{
+    border: 2px solid red;  /* Black border around the container */
+}
+
+.pizza{
+    color: yellow;
+    margin-left: 20px; 
+    border: 5px solid black /* Yellow text color for pizza */
+}
+.biryani{
+    color: orange;  /* Orange text color for biryani */
+}
+#momo{
+    color: red;  /* Red text color for momo */
+}
+
+/* Add some space around the body */
+body {
+    padding: 20px;
+}
+
+/* Add some spacing to the body */
+h1:nth-child(1) {
+    margin-top: 40px;
+}
+
+/* Optional: Style the page title */
+title {
+    font-size: 16px;
+}
