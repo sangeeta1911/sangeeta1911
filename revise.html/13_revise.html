@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Box Grid</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 20px;
+      font-family: Arial;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: 100px 100px;
+      gap: 20px;
+      justify-content: center;
+      margin-top: 50px;
+    }
+    .box {
+      width: 100px;
+      height: 100px;
+      border-radius: 10px;
+    }
+    .red { background-color: red; }
+    .blue { background-color: blue; }
+    .green { background-color: green; }
+    .yellow { background-color: yellow; }
+  </style>
+</head>
+<body>
+  <h2>Colored Box Grid</h2>
+  <div class="grid">
+    <div class="box red"></div>
+    <div class="box blue"></div>
+    <div class="box green"></div>
+    <div class="box yellow"></div>
+  </div>
+</body>
+</html>
