@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **learning frontend development**
 
-- 🌱 I’m currently learning **CSS**
-
 - 👯 I’m looking to collaborate on **HTML, CSS, JavaScript, and React**
 
 - 🤝 I’m looking for help with **learning React and building real-world web apps**
@@ -19,7 +17,7 @@
 
 - 📫 How to reach me **mishrasangeeta898@outlook.com | https://www.linkedin.com/in/sangeeta-mishra/**
 
-- ⚡ Fun fact **I’ve been solving customer challenges — and now, I’d love to solve them with code!**
+- ⚡ Fun fact **I have been solving customer challenges — and now, I’d love to solve them with code!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
