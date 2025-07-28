@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Pricing Table</title>
+  <style>
+    body {
+      font-family: Arial;
+      background: #f2f2f2;
+      text-align: center;
+      padding: 40px;
+    }
+    .pricing {
+      display: flex;
+      justify-content: center;
+      gap: 30px;
+    }
+    .plan {
+      background: white;
+      border: 1px solid #ddd;
+      border-radius: 10px;
+      width: 200px;
+      padding: 20px;
+      box-shadow: 0 0 8px rgba(0,0,0,0.1);
+    }
+    .plan h2 {
+      margin-top: 0;
+    }
+    .price {
+      font-size: 24px;
+      color: #4CAF50;
+      margin: 10px 0;
+    }
+    .plan button {
+      background: #4CAF50;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      margin-top: 15px;
+      cursor: pointer;
+    }
+    .plan button:hover {
+      background: #45a049;
+    }
+  </style>
+</head>
+<body>
+  <h1>Choose a Plan</h1>
+  <div class="pricing">
+    <div class="plan">
+      <h2>Basic</h2>
+      <p class="price">₹199/month</p>
+      <p>1 User</p>
+      <p>Email Support</p>
+      <button>Select</button>
+    </div>
+    <div class="plan">
+      <h2>Pro</h2>
+      <p class="price">₹499/month</p>
+      <p>5 Users</p>
+      <p>Phone + Email Support</p>
+      <button>Select</button>
+    </div>
+  </div>
+</body>
+</html>
